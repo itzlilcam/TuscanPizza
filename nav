@@ -1,0 +1,24 @@
+<div id="home" class="nav-top">
+        <div class="nav-top-left">
+            <li><a target="_blank" href="https://www.facebook.com/tuscanvillagepizza/"><i class="fa-brands fa-facebook-square"></i></a></li>
+            <li><a target="_blank" href="#"><i class="fa-brands fa-twitter-square"></i></a></li>
+            <li><a target="_blank" href="https://www.instagram.com/tuscanpizza"><i class="fa-brands fa-instagram-square"></i></a></li>
+            <li><a target="_blank" href="#"><i class="fa-brands fa-youtube-square"></i></a></li>
+        </div>
+        <div class="nav-top-right">
+            <li><i style="padding-right: 1rem;" class="fa-solid fa-location-dot"></i>3101 NJ-42 Ste 9, Sicklerville, NJ 08081</li>
+            <li><i style="padding-right: 1rem;" class="fa-solid fa-phone"></i>+1 856-885-6303</li>
+        </div>
+    </div>
+    <nav>
+        <a href="index.html"><img class="logo" src="/images/logo.png" alt="Site_Logo"></a>
+        <div class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#about">About</a><div id="newbtn">NEW!⭐</div></li>
+            <li><a href="#">Blog</a><div id="newbtn">NEW!⭐</div></li>
+            <li><a href="#location">Location</a><div id="newbtn">NEW!⭐</div></li>
+            <li><a href="#contact-us">Contact Us</a></li>
+            <button class="ordernow"><a target="_blank" href="https://slicelife.com/restaurants/nj/sicklerville/08081/tuscan-pizza-sicklerville/menu">Order Now</a><i style="padding-left: .5rem;" class="fa-solid fa-cart-shopping"></i></button>
+        </div>
+    </nav>
